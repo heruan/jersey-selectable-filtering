@@ -5,4 +5,4 @@ This inject the default Derby database resource `jdbc/__default`, but doesn't ac
 
 Deploy the application and go to:
 
-<http://localhost:8888/filtering/api/hosts?fields=id,interfaces.items.functions.trigger.status>
+<http://localhost:8080/filtering/api/hosts?fields=id,interfaces.items.functions.trigger.status>
